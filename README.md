@@ -1,3 +1,4 @@
+
 # BudgetApp Calculator
 
 This repo contains working version of JavaScript Budget Calcuator. This application can be forked and extended as per the requirements. Additionally someone interested in learning JavaScript can use this app to learn the core concepts of Javascript.
@@ -22,9 +23,18 @@ BudgetApp Architecture
 
 Version History
 ----------
+++Version 2
++ Calculating and Displaying Percentage
++ Displaying Income and Expenses in HUD
++ Displaying Month and Year
++ Improved User Experience by Providing Feedback
+
 ++Version 1
-+ Very Basic Interface 
-+ Functionality for calculating BMI in Metric system only
++ Adding Income and Expenses
++ Displaying Income and Expenses
++ Sum of Expenses
++ Sum of Income
++ Difference of Sum and Income
 
 Meta
 
